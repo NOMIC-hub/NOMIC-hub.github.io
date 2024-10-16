@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NOMIC: a hub for knowledge exchange and method development on omics data analysis of non-model organisms",
+    "section": "",
+    "text": "NOMIC: a hub for knowledge exchange and method development on omics data analysis of non-model organisms\nRecent developments in spatial and single-cell omics techniques have disrupted a wide range of fields in biology. Now that many techniques are cost-effective and have become widely available, they have been embraced by researchers that work with organisms outside typical model systems, i.e. non-model organisms, like cattle, squids, fish and acoels. However, many computational methods and platforms are tailored towards model organisms and extending their use to non-model organisms is not trivial. For example, pre-built reference genomes are available for a limited number of species and probe-sets for widely used probe-based methods for single cell and spatial omics techniques are only commercially available for human and mouse. Therefore, there is an unmet need to adjust and develop methods so they can be applied in non-model organisms. However, methods and expertise are lacking and if they exist, they are scattered around institutions.\nThe aim of this project is to define a central hub of expertise and exchange regarding the application of methods in spatial and single-cell methods for non-model organisms (NOMIC) on an interfaculty level, including the Science Faculty, Vetsuisse Faculty and also the Medical faculty. This hub will be embedded in the Interfaculty Bioinformatics Unit (IBU) and will serve as a point of service for tailored method development, analysis support and knowledge exchange for any group within the university.\nMore specifically, the aims for NOMIC will be:\n\nIdentify ongoing work on spatial and single-cell omics data analysis of non-model organisms and identify common pressing issues.\nActively encourage knowledge exchange by the organization of a seminar series on the analysis spatial and single-cell omics data of non-model organisms\nDevelopment and dissemination of resources and methods tailored towards non-model organisms"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
