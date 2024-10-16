@@ -1,6 +1,3 @@
----
-title: "NOMIC-hub.github.io"
----
 
 # NOMIC: a hub for knowledge exchange and method development on omics data analysis of non-model organisms 
 
