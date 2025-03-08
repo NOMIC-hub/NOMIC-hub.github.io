@@ -1,9 +1,17 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+## About this site
 
-```{r}
-1 + 1
-```
+```{r, echo=FALSE}
+library(animation)
+
+saveGIF({
+  for (i in 1:10) {
+    plot(runif(10), runif(10), pch=19, col=rainbow(10), 
+         xlim=c(0,1), ylim=c(0,1), main="Welcome!")
+    Sys.sleep(0.2)
+  }
+}, movie.name = "landing_animation.gif", interval = 0.2, ani.width = 400, ani.height = 300)
